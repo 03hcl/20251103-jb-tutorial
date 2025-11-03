@@ -42,6 +42,7 @@ project:
     - file: content/2_cheat_sheet.md
     - file: content/lessons/your_turn.md          # dropdown menu
       children:
+        - file: content/lessons/newfile.md
         - file: content/lessons/0_setup.md
         - file: content/lessons/1_firstedit.md
         - file: content/lessons/2_nextstep.md
