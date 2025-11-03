@@ -6,6 +6,12 @@
 add file in the folder
 ```
 
+```{iframe} https://www.youtube.com/embed/dhzrlXzYOlU?si=n2U0HSJyotjp-r93
+:width: 80%
+
+Purves et al. - Jupyter Book 2 0 – A Next Generation tool for sharing for Computational Content
+```
+
 This is the *Jupyter Book 2 Workshop Template,* designed to quickly and easily produce your own online interactive textbook as well as a high quality PDF enabled with Typst using [Jupyter Book 2](https://next.jupyterbook.org/) technology.
 
 This template:
