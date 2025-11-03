@@ -219,7 +219,38 @@ And reference that equation here.
 
 :::{solution} ex_typography
 :class: dropdown
-Optionally you can put your answers here.
+
+**Make this line bold.**
+
+*Make this line italic.*
+
+Put these items in an unordered list,
+
+- Elm
+- Sycamore
+- Oak
+- Beech
+
+Put these items in an ordered list,
+
+ 1. Hydrogen
+ 1. Helium
+ 1. Lithium
+ 1. Beryllium
+ 1. Boron
+ 1. Carbon
+
+Put a line break between this sentence.  
+And this sentence.
+
+Make the following line an equation with a label,
+
+$$ F = m a $$ (eq1)
+
+And reference that equation here.
+
+-> [This is a eq1 link.](eq1)
+
 :::
 
 :::{hint}
