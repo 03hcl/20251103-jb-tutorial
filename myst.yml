@@ -16,6 +16,7 @@ project:
   references:
     myst-guide: https://mystmd.org/guide
     jupyter: https://docs.jupyter.org/en/latest
+    ttw: https://book.the-turing-way.org
 
   date: 2025-11-02 # ${BUILD_DATE} 
   github: https://github.com/jupyter-book/workshop-template # Change this URL to your GitHub repository

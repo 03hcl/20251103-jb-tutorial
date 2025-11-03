@@ -11,3 +11,5 @@ Add a label to this paragraph.
 
 [](my-label)
 
+[](xref:ttw)
+
