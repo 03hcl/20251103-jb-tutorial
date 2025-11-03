@@ -1,5 +1,11 @@
 # Introduction
 
+``` {figure} figures/60fp_parrot_gifmagazine.gif
+:width: 50%
+:name: fig_myfirstfigure
+add file in the folder
+```
+
 This is the *Jupyter Book 2 Workshop Template,* designed to quickly and easily produce your own online interactive textbook as well as a high quality PDF enabled with Typst using [Jupyter Book 2](https://next.jupyterbook.org/) technology.
 
 This template:
