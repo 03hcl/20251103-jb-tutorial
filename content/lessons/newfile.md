@@ -19,3 +19,14 @@
     - Caesar
     - Greek
     - Niçoise
+
+---
+
+```python
+def hello(name):
+    print(f"Hello, {name}!")
+```
+
+![alt text](figures/startscreen.png)
+
+and so on...
