@@ -4,7 +4,8 @@ numbering:
     offset: 0
 ---
 (fundamentals)=
-# Jupyter Book Fundamentals
+
+# Jupyter Book Fundamentals (I made my first edit!)
 
 ## Anatomy of a Jupyter Book
 
